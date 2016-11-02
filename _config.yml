@@ -107,6 +107,10 @@ author:
 # Setting a disqus subdomain will enable the comment section
 # disqus:            <username>
 
+markdown: redcarpet, kramdown
+redcarpet:
+    extensions: [fenced_code_blocks", "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis""]
+    
 kramdown:
   math_engine:       mathjax
   math_engine_opts:
@@ -123,6 +127,4 @@ compress_html:
 sass:
   style:             compressed
 
-markdown: redcarpet
-redcarpet:
-    extensions: [fenced_code_blocks", "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis""]
+
