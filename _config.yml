@@ -122,3 +122,7 @@ compress_html:
 
 sass:
   style:             compressed
+
+markdown: redcarpet
+redcarpet:
+    extensions: ["tables"]
