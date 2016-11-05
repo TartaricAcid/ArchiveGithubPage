@@ -16,12 +16,12 @@ hyde:
   image: /public/img/hyde.jpg
   color: '#949667'
   description: >
-    Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
-    It’s based on Poole, the Jekyll butler.
+    这里是我日常抽风写东西的地方，可能会出现各种奇奇♂怪怪的东西。
+    请不要惊讶。
 
 jekyll:
   name: 教程文案
   image: /public/img/jekyll.jpg
   color: '#949667'
   description: >
-    Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+    这里是日常翻译或者撰写的wiki文案等，原创部分大家可以随意转载使用。

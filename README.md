@@ -1,3 +1,17 @@
+# 这里是酒石酸的博客仓库
+#### 模板借用的是以为叫做qwtel的大大放在jekyllthemes上面的模板，做的真的是非常的棒，我很喜欢，在这里对他本人表示十分的感谢。
+> 其实按照作者的意思，我应该这么写README  
+这是从qwtel那里偷来的伟大的杰作（大雾）
+
+这下面是原作者的README，我就原封不动的放在这里吧，大家喜欢这个模板的就去原作者那里下载吧，记得给原作者star哦。
+
+> MIT License
+
+-----
+
+
+
+
 # Hydejack
 
 Hydejack is a pretentious two-column [Jekyll](http://jekyllrb.com) theme, stolen by [`@qwtel`](https://twitter.com/qwtel) from [Hyde](http://hyde.getpoole.com). You could say it was.. [hydejacked](http://media3.giphy.com/media/makedRIckZBW8/giphy.gif).
