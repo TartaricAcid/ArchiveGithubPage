@@ -13,15 +13,15 @@
 
 hyde:
   name: 日常随笔
-  image: /public/img/hyde.jpg
+  image: /public/img/003.png
   color: '#949667'
   description: >
-    这里是我日常抽风写东西的地方，可能会出现各种奇奇♂怪怪的东西。
+    这里是我日常抽风写东西的地方，可能会出现各种奇奇♂怪怪的东西。  
     请不要惊讶。
 
 jekyll:
   name: 教程文案
-  image: /public/img/jekyll.jpg
+  image: /public/img/002.png
   color: '#949667'
   description: >
     这里是日常翻译或者撰写的wiki文案等，原创部分大家可以随意转载使用。
