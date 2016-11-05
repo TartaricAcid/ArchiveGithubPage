@@ -109,7 +109,7 @@ author:
 
 markdown: redcarpet
 redcarpet:
-    extensions: [fenced_code_blocks", "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis""]
+    extensions: ["fenced_code_blocks", "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
 
 
 
