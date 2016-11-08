@@ -24,7 +24,7 @@ description:         >
   生命就像是一场徒步旅行，穿越荆棘和沼泽，我们终将会迎来最美的风景。
 
 # The tags listed as entries in the sidebar
-sidebar_tags:        [jekyll, hyde]
+sidebar_tags:        [wiki, essay]
 
 # Fallback image and color if not overwritten for tag or post
 image:               /public/img/001.jpg

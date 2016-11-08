@@ -11,7 +11,7 @@
 #     *My Tag* is an example of how to define a custom tag.
 # ~~~
 
-hyde:
+essay:
   name: 日常随笔
   image: /public/img/003.jpg
   color: '#949667'
@@ -19,7 +19,7 @@ hyde:
     这里是我日常抽风写东西的地方，可能会出现各种奇奇♂怪怪的东西。  
     请不要惊讶。
 
-jekyll:
+wiki:
   name: 教程文案
   image: /public/img/002.jpg
   color: '#949667'
