@@ -1,3 +1,10 @@
+---
+layout: post
+title: 自定生物群系教程
+tags: [wiki]
+description: >
+  超多生物群系模组自定生物群系教程的翻译
+---
 ## 开始
 原作者的wiki：[戳我](https://github.com/Glitchfiend/BiomesOPlenty/wiki/Configuring-Biomes)
 
