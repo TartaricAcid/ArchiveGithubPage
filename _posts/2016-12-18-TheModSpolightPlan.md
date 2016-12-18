@@ -18,7 +18,7 @@ description: >
 | 8 | Tinkers' Construct | 老匠魂，新风味 |
 | 9 | Environmental Tech | 适合魔改的多方块模组 |
 | 10 | Charset | asie的脑洞集合 |
-| 11 | Botania | 嗯，这个看书就可以了 |
+| 11 | ~~Botania~~ | 嗯，这个看书就可以了 |
 | 12 | IndustrialCraft 2 | 你没看错 |
 | 13 | Extra Utilities 2 | 老配方，新味道 |
 | 14 | Psi | 还有附属，嗯，太玄你能接坑么 |
@@ -30,6 +30,8 @@ description: >
 | 20 | EnderIO | 老牌模组，中规中矩 |
 | 21 | SuperCircultMaker | 新兴的潜力无限模组 |
 | 22 | Better Builder's Wands | 小模组，更专业 |
-| 23 | Heat & climate | deaftedcrow力作 |
+| 23 | Heat & Climate | deaftedcrow力作 |
+| 24 | fairylights | 非常棒的装饰彩灯 |
 
-### 暂时想到这些，其他的以后再说
+
+#### 暂时想到这些，其他的以后再说
