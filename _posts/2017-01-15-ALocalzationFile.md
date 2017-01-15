@@ -11,7 +11,7 @@ description: >
 
 参与汉化
 
-    Reliquary   Bamboo    Calculator
+	Reliquary		Bamboo		Calculator
 
 独立汉化
 
