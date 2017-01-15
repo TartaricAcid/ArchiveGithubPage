@@ -15,8 +15,8 @@ description: >
 
 独立汉化
 
-    SparksHammers		FluxNetworks		EnderTanks
-	Multibeds		    Multistorage		Platforms
+	SparksHammers		FluxNetworks		EnderTanks
+	Multibeds		Multistorage		Platforms
 	ShetiPhiancore		SuperSoundMuffler	Hatchery
 	MoreChickens		ModularRouters		Cyclic
 	MCrafterzzMod
