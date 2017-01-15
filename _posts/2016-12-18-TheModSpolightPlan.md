@@ -8,8 +8,8 @@ description: >
 
 | 序号 | 模组名称 | 备注 |
 | :----: | :-----: | :----: |
-| 1 | The One Probe | 及其附属 |
-| 2 | JEI | 还有一堆附属，比如JECh，JER啥的 |
+| 1 | ~~The One Probe~~ | ~~及其附属~~ |
+| 2 | ~~JEI~~ | ~~还有一堆附属，比如JECh，JER啥的~~ |
 | 3 | RFTools | McJty赛高 |
 | 4 | Deep Resonance | McJty赛高 |
 | 5 | Blood Magic | 如果吕不才没有做完整版的话 |
@@ -18,7 +18,7 @@ description: >
 | 8 | Tinkers' Construct | 老匠魂，新风味 |
 | 9 | Environmental Tech | 适合魔改的多方块模组 |
 | 10 | Charset | asie的脑洞集合 |
-| 11 | ~~Botania~~ | 嗯，这个看书就可以了 |
+| 11 | ~~Botania~~ | ~~嗯，这个看书就可以了~~ |
 | 12 | IndustrialCraft 2 | 你没看错 |
 | 13 | Extra Utilities 2 | 老配方，新味道 |
 | 14 | Psi | 还有附属，嗯，太玄你能接坑么 |
