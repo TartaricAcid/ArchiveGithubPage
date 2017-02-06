@@ -10,4 +10,4 @@ description: >
 这些术式的来源我都写在`README.md`里面了，你们自己慢慢看吧。
 
 贴一下地址连接     
-[戳我啊]()
+[戳我啊](https://github.com/TartaricAcid/tartaricacid.github.io/tree/master/public/file/Psi)
