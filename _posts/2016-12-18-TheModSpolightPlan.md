@@ -12,15 +12,15 @@ description: >
 | 2 | ~~JEI~~ | ~~还有一堆附属，比如JECh，JER啥的~~ |
 | 3 | ~~RFTools~~ | ~~McJty赛高~~ |
 | 4 | ~~Deep Resonance~~ | ~~McJty赛高~~ |
-| 5 | Blood Magic | 如果吕不才没有做完整版的话 |
+| 5 | ~~Blood Magic~~ | ~~吕不才加油喽~~ |
 | 6 | ~~Refined Storage~~ | ~~仿制AE1的模组，意外的受欢迎~~ |
-| 7 | Quark | vazkii的脑洞集合 |
+| 7 | ~~Quark~~ | ~~vazkii的脑洞集合~~ |
 | 8 | ~~Tinkers' Construct~~ | ~~老匠魂，新风味~~ |
 | 9 | ~~Environmental Tech~~ | ~~这模组还是算了吧，不讲了~~ |
 | 10 | ~~Charset~~ | ~~asie的脑洞集合~~ |
 | 11 | ~~Botania~~ | ~~嗯，这个看书就可以了~~ |
-| 12 | IndustrialCraft 2 | 你没看错 |
-| 13 | Extra Utilities 2 | 老配方，新味道 |
+| 12 | ~~IndustrialCraft 2~~ | ~~你没看错~~ |
+| 13 | ~~Extra Utilities 2~~ | ~~老配方，新味道~~ |
 | 14 | ~~Psi~~ | ~~还有附属，嗯，太玄你能接坑么~~ |
 | 15 | Reliquary | 嗯……，中规中矩的模组 |
 | 16 | ~~Roots~~ | ~~这作者不增加自动化的部分，我拒绝这个模组~~ |
