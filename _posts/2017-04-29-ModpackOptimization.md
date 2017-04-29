@@ -22,10 +22,7 @@ description: >
   # loading times. Specify the size (in chunks) of that cache here
   I:dormantChunkCacheSize=0
   ```
-
 2. FoamFix
-
-  ![foamfix](http://www.asie.pl/img/logos/foamfix.png)
   * 下载地址在这里找：[戳我啊](http://www.asie.pl/Projects/Minecraft/Mods/FoamFix/)；
   * 任意选择两个版本中一个即可，对于玩家没有区别；
   * 能够有效减少内存使用大约一半左右。
