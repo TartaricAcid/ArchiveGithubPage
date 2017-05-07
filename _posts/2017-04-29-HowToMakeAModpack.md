@@ -18,8 +18,8 @@ description: >
 * 数据狂魔？再装一个Block Drops吧；
 * 旗帜狂魔？想看旗帜图案合成表？再装一个Just Enough Pattern Banners吧。
 
-2. Hylwa 或者 The One Probe
-* Hylwa 是原来Waila的香火传承人，还是原来的配方，还是熟悉的味道。
+2. Hwyla 或者 The One Probe
+* Hwyla 是原来Waila的香火传承人，还是原来的配方，还是熟悉的味道。
   * 还可以选择装Wawla和Waila Harvestability，现在能和Hylwa兼容，能提供更多详细信息显示；
   * 如果装了这个模组，物品下面都会显示Mod ID，挺好的功能。
 * The One Probe 高亮显示做的很不错，但是需要的前置略多，对EIO和McJty自己模组兼容性较好，能够显示图像。
@@ -55,7 +55,14 @@ description: >
 * 还记得1.7.10那个血条模组么，就那个能显示生物的血条模组，那东西！他！弃！坑！了！
 * 和原来1.7.10那个差不多，做的也挺好看的模组。
 
-其他碎碎念：RPG-Hud（改变了血条显示，更加的RPG风格），Notes（游戏内记事本），Calculations（游戏里加了个计算器，迷），Morpheus（服务器独享模组，投票睡觉）
+10. Inventory Tweaks
+* 自动整理插件，不必多说了
+* 什么，整理老是出bug？你真的用的是最新版？
+
+11. Mouse Tweaks
+* 为啥鼠标一拖就把东西全移动了，不是我手速快，是这个模组的功能。
+
+其他碎碎念：Item Scroller（增加了很多涉及鼠标中键的物品整理功能），RPG-Hud（改变了血条显示，更加的RPG风格），Notes（游戏内记事本），Calculations（游戏里加了个计算器，迷），Morpheus（服务器独享模组，投票睡觉）
 
 不建议装的模组：
 1. NEI (Not Enough Items)
