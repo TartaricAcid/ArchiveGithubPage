@@ -55,12 +55,6 @@ author:
 
     之后又看了JJN和Towdium的博客，觉得跃跃欲试，最后终于是开工了。虽然有太多不足，太多缺陷，打这些字都觉得自己语言功底已经近乎为零。所以还请那些看到这个破网站的人还请多多指教。
 
-    之后会陆续写一下教程的文案或者一些wiki的翻译，估计会有人可能会来要搬运的授权。
-
-    接触了开源社区的一些东西以后受益匪浅，我对那些默默无闻的贡献者非常感谢，所以我也想为社区出一份力。
-
-    所有我原创的部分你们都可以随意转载，不需要也不建议你们署名（如果愿意，你甚至可以说是你做的），至于翻译或者部分借用别人的图片的东西，还请遵循原作者的开源协议。
-
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
@@ -84,7 +78,7 @@ author:
     # ello:            _username_
     # twitch:          _username_
     # steam:           _number_
-    # reddit:          _username_
+    reddit:          baka943
     # tumblr:          _username_
     # pinterest:       _username_
     # foursquare:      _number_

@@ -12,7 +12,7 @@ description: >
 | 1 | ~~AppleCore~~| ~~还有AppleSkin，现在有点变动~~ |
 | 2 | ~~Modern Warfare Mod~~ | ~~精湛的制作工艺！~~ |
 | 3 | ~~The Betweenlands~~ | ~~精湛的环境渲染！~~ |
-| 4 | Heat & Climate | 继续寒假没完成的坑 |
+| 4 | ~~Heat & Climate~~ | ~~继续寒假没完成的坑~~ |
 | 5 | Blood Magic | 我觉得有必要做 |
 | 6 | Super Circult Maker | 继续寒假没完成的坑 |
 | 7 | FTBUtilities | 补充一下新版本的改动，顺便着重说一点东西 |
@@ -23,7 +23,7 @@ description: >
 | 12 | RFTools Dimension | 有趣 |
 | 13 | RFTools Control | 搞不懂 |
 | 14 | XNet | 不得不说，优化做的确实好 |
-| 15 | SupercraftingFrame | 小模组，但是好像还是有人不会用 |
+| 15 | ~~SupercraftingFrame~~ | ~~小模组，但是好像还是有人不会用~~ |
 | 16 | Gendustry | Sanae你快看，我打算做这个教程了诶 |
 | 17 | ExtremeReactors | 还有个[设计网站](http://br.sidoh.org/#reactor-prompt)简直赞 |
 | 18 | RFTools | 别害怕，只是把末影能发电机部分重置一下 |
@@ -34,6 +34,6 @@ description: >
 | 23 | Immersive Craft | 那个是谁说这是一个模组的？ |
 | 24 | Just Enough Calculator | Towdium，我承认接锅 |
 | 25 | Advance Rocketry | 好模组！ |
-| 26 | Environmental Tech | 顺手把附属也介绍了吧 |
+| 26 | ~~Environmental Tech~~ | ~~顺手把附属也介绍了吧~~ |
 
 目前就想到这些。
