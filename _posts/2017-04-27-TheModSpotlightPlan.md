@@ -19,7 +19,7 @@ description: >
 | 8 | Random Thing | 补一下寒假的坑 |
 | 9 | Reliquary | 补一下寒假的坑 |
 | 10 | DarkUtilities | 这个和上面类型差不多 |
-| 11 | Aroma1997s Dimensional World | 这个小模组几分钟就完事吧 |
+| 11 | ~~Aroma1997s Dimensional World~~ | ~~这个小模组几分钟就完事吧~~ |
 | 12 | RFTools Dimension | 有趣 |
 | 13 | RFTools Control | 搞不懂 |
 | 14 | XNet | 不得不说，优化做的确实好 |
