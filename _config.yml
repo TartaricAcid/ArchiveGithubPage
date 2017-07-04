@@ -27,7 +27,7 @@ description:         >
 sidebar_tags:        [wiki, essay]
 
 # Fallback image and color if not overwritten for tag or post
-image:               https://i.pximg.net/img-original/img/2017/07/01/19/12/29/63652601_p0.png
+image:               public/img/001.jpg
 color:               '#A85641'
 
 # Fonts
