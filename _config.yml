@@ -33,7 +33,7 @@ color:               '#A85641'
 # Fonts
 font:                'consolas, 微软雅黑'
 font_accent:         'consolas, 华文细黑, 微软雅黑'
-load_google_fonts:   'Roboto+Slab:700|PT+Serif:400,400italic,700,700italic'
+load_google_fonts:   'consolas'
 
 # About yourself
 author:

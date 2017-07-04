@@ -35,5 +35,9 @@ description: >
 | 24 | Just Enough Calculator | Towdium，我承认接锅 |
 | 25 | Advance Rocketry | 好模组！ |
 | 26 | ~~Environmental Tech~~ | ~~顺手把附属也介绍了吧~~ |
+| 27 | Totemic | 诹访大舞 |
+| 28 | ModularPowersuits | 模块化动力装甲 |
+| 29 | PracticalLogistics2 | 接坑啦，开心吧 |
+
 
 目前就想到这些。
