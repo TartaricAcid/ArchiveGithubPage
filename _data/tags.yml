@@ -13,7 +13,7 @@
 
 essay:
   name: 日常随笔
-  image: public/img/002.png
+  image: /public/img/002.png
   color: '#949667'
   description: >
     这里是我日常抽风写东西的地方，可能会出现各种奇奇♂怪怪的东西。  
@@ -21,7 +21,7 @@ essay:
 
 wiki:
   name: 教程文案
-  image: public/img/003.jpg
+  image: /public/img/003.jpg
   color: '#949667'
   description: >
     这里是日常翻译或者撰写的wiki文案等，原创部分大家可以随意转载使用。
