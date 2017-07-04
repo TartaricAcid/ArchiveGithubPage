@@ -21,13 +21,13 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-  生命就像是一场徒步旅行，穿越荆棘和沼泽，我们终将会迎来最美的风景。
+  哇，你发现了一个神秘的地方，奖励你一朵小红花。
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [wiki, essay]
 
 # Fallback image and color if not overwritten for tag or post
-image:               /public/img/001.jpg
+image:               https://i.pximg.net/img-original/img/2017/07/01/19/12/29/63652601_p0.png
 color:               '#A85641'
 
 # Fonts
