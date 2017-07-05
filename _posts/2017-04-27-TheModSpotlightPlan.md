@@ -13,7 +13,7 @@ description: >
 | 2 | ~~Modern Warfare Mod~~ | ~~精湛的制作工艺！~~ |
 | 3 | ~~The Betweenlands~~ | ~~精湛的环境渲染！~~ |
 | 4 | ~~Heat & Climate~~ | ~~继续寒假没完成的坑~~ |
-| 5 | Blood Magic | 我觉得有必要做 |
+| 5 | ~~Blood Magic~~ | ~~我觉得有必要做~~ |
 | 6 | Super Circult Maker | 继续寒假没完成的坑 |
 | 7 | FTBUtilities | 补充一下新版本的改动，顺便着重说一点东西 |
 | 8 | Random Thing | 补一下寒假的坑 |
