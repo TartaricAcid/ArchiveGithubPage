@@ -11,7 +11,7 @@ url:                 http://tartaricacid.github.io
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             # http://tartaricacid.github.io 
+baseurl:             # http://tartaricacid.github.io
 
 title:               酒石酸菌
 
@@ -76,7 +76,7 @@ author:
     # behance:         _username_
     # deviantart:      _username_
     # ello:            _username_
-    # twitch:          _username_
+    twitch:          TartaricAcid
     # steam:           _number_
     reddit:          baka943
     # tumblr:          _username_
@@ -99,7 +99,7 @@ author:
 # google_analytics_id: 'UA-84025722-2'
 
 # Setting a disqus subdomain will enable the comment section
-# disqus:            <username>
+disqus:            tartaric_acid
 
 markdown: kramdown
 
@@ -113,5 +113,3 @@ compress_html:
 
 sass:
   style:             compressed
-
-
