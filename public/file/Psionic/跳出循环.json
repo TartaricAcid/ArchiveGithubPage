@@ -1,0 +1,56 @@
+{
+    spellName: "跳出循环",
+    uuidMost: -548281151744422586L,
+    validSpell: 1b,
+    spellList: [
+        0: {
+            data: {
+                params: {
+                    _number: 0,
+                    _target: 4
+                },
+                key: "trickDebug"
+            },
+            x: 3,
+            y: 3
+        },
+        1: {
+            data: {
+                key: "selectorLoopcastIndex"
+            },
+            x: 4,
+            y: 3
+        },
+        2: {
+            data: {
+                key: "constantNumber",
+                constantValue: "15"
+            },
+            x: 5,
+            y: 2
+        },
+        3: {
+            data: {
+                params: {
+                    _number2: 3,
+                    _number3: 0,
+                    _number1: 1
+                },
+                key: "operatorSubtract"
+            },
+            x: 5,
+            y: 3
+        },
+        4: {
+            data: {
+                params: {
+                    _number: 1
+                },
+                key: "psionup.loopcastBreak"
+            },
+            x: 5,
+            y: 4
+        }
+    ],
+    uuidLeast: -9009023355627338876L
+}

@@ -1,0 +1,370 @@
+{
+    spellName: "圆环之理",
+    uuidMost: 6929663362395029680L,
+    validSpell: 1b,
+    spellList: [
+        0: {
+            data: {
+                params: {
+                    _target: 2
+                },
+                key: "operatorEntityLook"
+            },
+            x: 1,
+            y: 4
+        },
+        1: {
+            data: {
+                key: "selectorCaster"
+            },
+            x: 1,
+            y: 5
+        },
+        2: {
+            data: {
+                params: {
+                    _ray: 3,
+                    _max: 0,
+                    _position: 2
+                },
+                key: "operatorVectorRaycastAxis"
+            },
+            x: 2,
+            y: 4
+        },
+        3: {
+            data: {
+                params: {
+                    _target: 3
+                },
+                key: "operatorEntityPosition"
+            },
+            x: 2,
+            y: 5
+        },
+        4: {
+            data: {
+                key: "constantPi"
+            },
+            x: 2,
+            y: 6
+        },
+        5: {
+            data: {
+                params: {
+                    _target: 2
+                },
+                key: "connector"
+            },
+            x: 3,
+            y: 2
+        },
+        6: {
+            data: {
+                key: "constantNumber",
+                constantValue: "20"
+            },
+            x: 3,
+            y: 3
+        },
+        7: {
+            data: {
+                params: {
+                    _number2: 1,
+                    _vector1: 3
+                },
+                key: "operatorVectorMultiply"
+            },
+            x: 3,
+            y: 4
+        },
+        8: {
+            data: {
+                params: {
+                    _number2: 2,
+                    _number3: 0,
+                    _number1: 3
+                },
+                key: "operatorMultiply"
+            },
+            x: 3,
+            y: 6
+        },
+        9: {
+            data: {
+                key: "constantNumber",
+                constantValue: "2"
+            },
+            x: 3,
+            y: 7
+        },
+        10: {
+            data: {
+                params: {
+                    _target: 2
+                },
+                key: "connector"
+            },
+            x: 4,
+            y: 1
+        },
+        11: {
+            data: {
+                params: {
+                    _target: 3
+                },
+                key: "connector"
+            },
+            x: 4,
+            y: 2
+        },
+        12: {
+            data: {
+                params: {
+                    _x: 0,
+                    _y: 3,
+                    _z: 0
+                },
+                key: "operatorVectorConstruct"
+            },
+            x: 4,
+            y: 3
+        },
+        13: {
+            data: {
+                params: {
+                    psionup.spellparam.angle: 2,
+                    psionup.spellparam.axis: 1,
+                    _target: 3
+                },
+                key: "psionup.vectorRotate"
+            },
+            x: 4,
+            y: 4
+        },
+        14: {
+            data: {
+                params: {
+                    _number2: 2,
+                    _number3: 0,
+                    _number1: 4
+                },
+                key: "operatorMultiply"
+            },
+            x: 4,
+            y: 5
+        },
+        15: {
+            data: {
+                params: {
+                    _number2: 4,
+                    _number1: 3
+                },
+                key: "operatorDivide"
+            },
+            x: 4,
+            y: 6
+        },
+        16: {
+            data: {
+                params: {
+                    _target: 3
+                },
+                key: "connector"
+            },
+            x: 4,
+            y: 7
+        },
+        17: {
+            data: {
+                params: {
+                    _target: 3
+                },
+                key: "connector"
+            },
+            x: 5,
+            y: 1
+        },
+        18: {
+            data: {
+                params: {
+                    _target: 4
+                },
+                key: "operatorEntityPosition"
+            },
+            x: 5,
+            y: 2
+        },
+        19: {
+            data: {
+                params: {
+                    _ray: 4,
+                    _max: 0,
+                    _position: 1
+                },
+                key: "operatorVectorRaycast"
+            },
+            x: 5,
+            y: 3
+        },
+        20: {
+            data: {
+                params: {
+                    _vector3: 0,
+                    _vector2: 3,
+                    _vector1: 1
+                },
+                key: "operatorVectorSum"
+            },
+            x: 5,
+            y: 4
+        },
+        21: {
+            data: {
+                key: "selectorLoopcastIndex"
+            },
+            x: 5,
+            y: 5
+        },
+        22: {
+            data: {
+                params: {
+                    _number2: 2,
+                    _number3: 0,
+                    _number1: 4
+                },
+                key: "operatorMultiply"
+            },
+            x: 5,
+            y: 6
+        },
+        23: {
+            data: {
+                params: {
+                    _number2: 3,
+                    _number3: 0,
+                    _number1: 4
+                },
+                key: "operatorMultiply"
+            },
+            x: 5,
+            y: 7
+        },
+        24: {
+            data: {
+                params: {
+                    _target: 3
+                },
+                key: "connector"
+            },
+            x: 6,
+            y: 1
+        },
+        25: {
+            data: {
+                key: "selectorCaster"
+            },
+            x: 6,
+            y: 2
+        },
+        26: {
+            data: {
+                params: {
+                    _target: 1
+                },
+                key: "operatorEntityLook"
+            },
+            x: 6,
+            y: 3
+        },
+        27: {
+            data: {
+                params: {
+                    _time: 0,
+                    _position: 3
+                },
+                key: "trickConjureBlock"
+            },
+            x: 6,
+            y: 4
+        },
+        28: {
+            data: {
+                params: {
+                    _target: 4
+                },
+                key: "connector"
+            },
+            x: 6,
+            y: 6
+        },
+        29: {
+            data: {
+                key: "constantPi"
+            },
+            x: 6,
+            y: 7
+        },
+        30: {
+            data: {
+                params: {
+                    _target: 3
+                },
+                key: "connector"
+            },
+            x: 7,
+            y: 1
+        },
+        31: {
+            data: {
+                params: {
+                    _target: 1
+                },
+                key: "connector"
+            },
+            x: 7,
+            y: 2
+        },
+        32: {
+            data: {
+                params: {
+                    _target: 1
+                },
+                key: "connector"
+            },
+            x: 7,
+            y: 3
+        },
+        33: {
+            data: {
+                params: {
+                    _target: 1
+                },
+                key: "connector"
+            },
+            x: 7,
+            y: 4
+        },
+        34: {
+            data: {
+                params: {
+                    _target: 1
+                },
+                key: "connector"
+            },
+            x: 7,
+            y: 5
+        },
+        35: {
+            data: {
+                params: {
+                    _target: 1
+                },
+                key: "connector"
+            },
+            x: 7,
+            y: 6
+        }
+    ],
+    uuidLeast: -6039935173556710089L
+}

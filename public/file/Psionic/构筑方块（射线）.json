@@ -1,0 +1,76 @@
+{
+    spellName: "构筑方块（射线）",
+    uuidMost: 1146039027471502132L,
+    validSpell: 1b,
+    spellList: [
+        0: {
+            data: {
+                params: {
+                    _target: 2
+                },
+                key: "operatorEntityLook"
+            },
+            x: 2,
+            y: 3
+        },
+        1: {
+            data: {
+                key: "selectorCaster"
+            },
+            x: 2,
+            y: 4
+        },
+        2: {
+            data: {
+                key: "constantNumber",
+                constantValue: "9"
+            },
+            x: 3,
+            y: 2
+        },
+        3: {
+            data: {
+                params: {
+                    _number2: 1,
+                    _vector1: 3
+                },
+                key: "operatorVectorMultiply"
+            },
+            x: 3,
+            y: 3
+        },
+        4: {
+            data: {
+                params: {
+                    _target: 3
+                },
+                key: "operatorEntityPosition"
+            },
+            x: 3,
+            y: 4
+        },
+        5: {
+            data: {
+                params: {
+                    _ray: 3,
+                    _time: 0,
+                    _position: 2
+                },
+                key: "psionup.conjureCrackle"
+            },
+            x: 4,
+            y: 3
+        },
+        6: {
+            data: {
+                params: {
+                    _target: 3
+                },
+                key: "connector"
+            },
+            x: 4,
+            y: 4
+        }
+    ],
+    uuidLeast: -5465886004450725070L
+}

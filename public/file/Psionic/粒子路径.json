@@ -1,0 +1,56 @@
+{
+    spellName: "粒子路径",
+    uuidMost: 572084575891047326L,
+    validSpell: 1b,
+    spellList: [
+        0: {
+            data: {
+                key: "constantNumber",
+                constantValue: "32"
+            },
+            x: 3,
+            y: 3
+        },
+        1: {
+            data: {
+                params: {
+                    _distance: 3,
+                    _ray: 2,
+                    _time: 0,
+                    _position: 4
+                },
+                key: "psionup.particleTrail"
+            },
+            x: 4,
+            y: 3
+        },
+        2: {
+            data: {
+                params: {
+                    _target: 4
+                },
+                key: "operatorEntityLook"
+            },
+            x: 4,
+            y: 4
+        },
+        3: {
+            data: {
+                params: {
+                    _target: 2
+                },
+                key: "operatorEntityPosition"
+            },
+            x: 5,
+            y: 3
+        },
+        4: {
+            data: {
+                key: "selectorCaster"
+            },
+            x: 5,
+            y: 4
+        }
+    ],
+    uuidLeast: -8832659283491600781L
+}

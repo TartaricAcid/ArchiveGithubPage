@@ -1,0 +1,57 @@
+{
+    spellName: "林冠之鼓",
+    uuidMost: 2764544024787568264L,
+    validSpell: 1b,
+    spellList: [
+        0: {
+            data: {
+                params: {
+                    _target: 2
+                },
+                key: "operatorEntityPosition"
+            },
+            x: 3,
+            y: 3
+        },
+        1: {
+            data: {
+                key: "selectorCaster"
+            },
+            x: 3,
+            y: 4
+        },
+        2: {
+            data: {
+                params: {
+                    _ray: 2,
+                    _max: 0,
+                    _position: 3
+                },
+                key: "operatorVectorRaycast"
+            },
+            x: 4,
+            y: 3
+        },
+        3: {
+            data: {
+                params: {
+                    _target: 3
+                },
+                key: "operatorEntityLook"
+            },
+            x: 4,
+            y: 4
+        },
+        4: {
+            data: {
+                params: {
+                    _position: 3
+                },
+                key: "psionup.drumOfTheCanopy"
+            },
+            x: 5,
+            y: 3
+        }
+    ],
+    uuidLeast: -5586520313173622079L
+}

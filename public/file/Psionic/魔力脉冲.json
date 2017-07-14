@@ -1,0 +1,46 @@
+{
+    spellName: "魔力脉冲",
+    uuidMost: -1840778722570583462L,
+    validSpell: 1b,
+    spellList: [
+        0: {
+            data: {
+                params: {
+                    _ray: 2,
+                    _position: 4
+                },
+                key: "psionup.makeManaBurst"
+            },
+            x: 4,
+            y: 3
+        },
+        1: {
+            data: {
+                params: {
+                    _target: 4
+                },
+                key: "operatorEntityLook"
+            },
+            x: 4,
+            y: 4
+        },
+        2: {
+            data: {
+                params: {
+                    _target: 2
+                },
+                key: "operatorEntityPosition"
+            },
+            x: 5,
+            y: 3
+        },
+        3: {
+            data: {
+                key: "selectorCaster"
+            },
+            x: 5,
+            y: 4
+        }
+    ],
+    uuidLeast: -7638512320716184376L
+}
