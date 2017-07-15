@@ -9,7 +9,7 @@ description: >
 
  Psionic Upgrades 模组教程视频（markdown里面居然还有这种骚操作，真是6到飞起，下次看看能不能插个网易云音乐）
 
- 
+<center>
 <embed
   height="415"
   width="544"
@@ -19,3 +19,4 @@ description: >
   src="//static.hdslb.com/miniloader.swf"
   flashvars="aid=12209732&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"
 />
+</center>
