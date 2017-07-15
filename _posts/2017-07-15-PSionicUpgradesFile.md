@@ -7,9 +7,9 @@ description: >
 ---
 看我多勤快啊，想看数据的孩子看[这里](https://github.com/TartaricAcid/tartaricacid.github.io/tree/master/public/file/Psionic)。
 
-试试md里面直接插html代码有没有用。
----
+ Psionic Upgrades 模组教程视频（markdown里面居然还有这种骚操作，真是6到飞起，下次看看能不能插个网易云音乐）
 
+ 
 <embed
   height="415"
   width="544"
@@ -17,7 +17,5 @@ description: >
   allowfullscreen="true"
   type="application/x-shockwave-flash"
   src="//static.hdslb.com/miniloader.swf"
-  flashvars="aid=12066823&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"
+  flashvars="aid=12209732&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"
 />
-
-我擦嘞，真有用，回头这个视频换成Psionic的教程。
