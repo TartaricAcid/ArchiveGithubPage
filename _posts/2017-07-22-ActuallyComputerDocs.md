@@ -8,8 +8,8 @@ description: >
 
 ### 堆肥机（Compost）    
 | 函数 | 说明 |
-| :---: | :---: |
-| getConversionTime|function():number; 返回当前转化已经消耗的时间，最大为3000 |
+| :--: | :--: |
+| getConversionTime | function():number; 返回当前转化已经消耗的时间，最大为3000 |
 
 ### 自动饲育机（Feeder）   
 | 函数 | 说明 |
