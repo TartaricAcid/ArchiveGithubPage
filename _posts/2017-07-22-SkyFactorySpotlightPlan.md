@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Sky Factory 本地化进度表
+title: Sky Factory 3 视频教程进度表
 tags: [wiki]
 description: >
-  与君共勉_(:з」∠)_
+  与君共勉 _(:з」∠)_
 ---
-最后更新2017-07-22
+最后更新 2017-07-22
 - [x] ActuallyAdditions  
 - [ ] actuallycomputers
 - [x] AppleCore
