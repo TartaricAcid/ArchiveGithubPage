@@ -1,0 +1,172 @@
+---
+layout: post
+title: Sky Factory 本地化进度表
+tags: [wiki]
+description: >
+  与君共勉_(:з」∠)_
+---
+最后更新2017-07-22
+- [x] ActuallyAdditions  
+- [ ] actuallycomputers
+- [x] AppleCore
+- [ ] AppleShields
+- [x] AppleSkin
+- [ ] autopackager
+- [ ] baconators
+- [ ] base
+- [x] BetterBuildersWands
+- [ ] BetterFps
+- [ ] BetterThanBunnies
+- [ ] BiomeTweaker
+- [ ] BlockDispenser
+- [x] BloodMagic
+- [ ] Botania
+- [ ] Ceramics
+- [ ] ChanceCubes
+- [x] Charset
+- [ ] ChestTransporter
+- [ ] ChickenChunks
+- [ ] chickens
+- [ ] Chisel
+- [x] chiselsandbits （需要更新）
+- [ ] ClientTweaks
+- [ ] Clipboard
+- [ ] Clumps
+- [ ] ColossalChests
+- [ ] CommonCapabilities
+- [ ] Controlling
+- [x] CookingForBlockheads
+- [ ] CraftTweaker
+- [ ] CustomMainMenu
+- [ ] DarkUtilities
+- [x] Decocraft
+- [ ] DefaultOptions
+- [ ] dimensionalcake
+- [ ] Draconic
+- [ ] DragonMounts
+- [ ] DrawersBits
+- [ ] ElevatorMod
+- [ ] EnderCore
+- [x] EnderIO （找太玄）
+- [ ] EnderStorage
+- [ ] EngineersWorkshop
+- [x] environmentaltech
+- [ ] etlunar
+- [ ] ExCompressum
+- [ ] exnihiloadscensio
+- [ ] ExtraBitManipulation
+- [x] extrautils2 （需要更新）
+- [x] ExtremeReactors
+- [x] fairylights
+- [ ] FarmingForBlockheads
+- [ ] FenceOverhaul
+- [ ] flatcoloredblocks
+- [ ] FluxNetworks
+- [ ] Forgelin
+- [x] FTBUtilities（需要更新）
+- [ ] FullscreenWindowed
+- [ ] Funnels
+- [ ] GardenOfGlass
+- [ ] generators
+- [ ] GooglyEyes
+- [ ] GraveStone Mod
+- [ ] Grue
+- [ ] Guide
+- [ ] Gyth
+- [ ] HammerCore
+- [ ] hatchery
+- [ ] Headcrumbs
+- [ ] hopperducts
+- [x] Hwyla
+- [ ] hydrogel
+- [ ] ImmersiveEngineering
+- [ ] InGameInfoXML
+- [ ] InitialInventory
+- [ ] IntegratedDynamics
+- [ ] IntegratedTunnels
+- [ ] inventorysorter
+- [ ] InventoryTweaks
+- [x] IronBackpacks
+- [ ] ironchest
+- [ ] ItsBecauseUHasNoGoodSpawn
+- [ ] itsrainingfood
+- [x] jei
+- [x] journeymap
+- [ ] JustEnoughCharacters
+- [ ] KleeSlabs
+- [ ] literalascension
+- [ ] llibrary
+- [ ] LongFallBoots
+- [ ] LootBags
+- [ ] Mercurius
+- [ ] MineMenu
+- [ ] minicoal
+- [ ] missing_pieces
+- [ ] MoarSigns
+- [ ] MobGrindingUtils
+- [ ] ModTweaker2
+- [ ] MoreChickens
+- [ ] MoreShearables
+- [ ] moreshears
+- [ ] Morpheus
+- [ ] MouseTweaks
+- [ ] mpbasic
+- [ ] mputils
+- [ ] mysticalagriculture
+- [ ] natura
+- [ ] Neat
+- [ ] nice
+- [x] NotEnoughItems
+- [ ] notenoughwands
+- [x] OpenComputers （找太玄）
+- [ ] OreExcavation
+- [ ] PackingTape
+- [x] Pam's HarvestCraft
+- [ ] platforms
+- [x] Psi
+- [ ] QuantumStorage
+- [ ] RandomThings
+- [ ] rangedpumps
+- [ ] RebornStorage
+- [ ] redstonepaste
+- [x] refinedstorage
+- [ ] Reliquia
+- [ ] ResourceLoader
+- [x] rftools
+- [ ] rftoolsctrl
+- [x] rftoolsdim
+- [ ] roots
+- [ ] SBM
+- [x] scanner
+- [ ] ShadowMC
+- [ ] shearmadness
+- [ ] shetiphiancore
+- [ ] SimpleAchievements
+- [ ] simplebarrels
+- [ ] simpleCorn
+- [ ] simplegenerators
+- [ ] simplelabels
+- [ ] SimplyJetpacks2
+- [ ] Snad
+- [ ] SolarFluxReborn
+- [ ] SonarCore
+- [ ] StevesCarts
+- [ ] StorageDrawers
+- [ ] SuperCircuitMaker
+- [x] TConstruct
+- [ ] The Beneath
+- [ ] TinkerToolLeveling
+- [ ] tinyprogressions
+- [ ] torchmaster
+- [ ] Translocators
+- [ ] TS2K16
+- [ ] Twitchcrumbs
+- [ ] UniDict
+- [ ] valkyrielib
+- [ ] voidcup
+- [ ] Waddles
+- [ ] WanionLib
+- [x] Wawla
+- [ ] witherCrumbs
+- [ ] xprings
+- [ ] YUNoMakeGoodMap
