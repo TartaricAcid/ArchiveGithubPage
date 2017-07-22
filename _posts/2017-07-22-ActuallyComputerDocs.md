@@ -6,7 +6,8 @@ description: >
   第一个模组就给我来个下马威，原作者也没写外部文档。没关系，源码里面扒出来了。
 ---
 
-### 堆肥机（Compost）    
+### 堆肥机（Compost）
+   
 | 函数 | 说明 |
 | :--: | :--: |
 | getConversionTime | function():number; 返回当前转化已经消耗的时间，最大为3000 |
