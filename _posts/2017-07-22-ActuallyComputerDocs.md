@@ -51,3 +51,17 @@ description: >
 |getFluidType|function(tank:number):string; 返回流体存储槽中储存的流体名称|
 |getFluidAmount|function(tank:number):number; 返回当前流体槽中流体的存储数量|
 |getTankCapacity|function(tank:number):number; 返回流体槽的储存上限|
+
+最后是贴上视频教程。
+
+<center>
+<embed
+  height="415"
+  width="544"
+  quality="high"
+  allowfullscreen="true"
+  type="application/x-shockwave-flash"
+  src="//static.hdslb.com/miniloader.swf"
+  flashvars="aid=12496529&page=1" pluginspage="//www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"
+/>
+</center>
