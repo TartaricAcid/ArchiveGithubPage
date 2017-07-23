@@ -40,14 +40,8 @@ description: >
 |getName|function():string; 返回当前微笑云朵的名字|
 |setName|function(name:string):boolean; 设置微笑云朵的名字，如果成功返回true。|
 
-### 咖啡制造机（CoffeeMaker）  
-
-| 函数 | 说明 |
-| :--: | :--: |
-|startCoffee|function():boolean; 启动咖啡制造机，如果启动成功则返回true。|
-
 ### 其他实用拓展的机器（TileBase）  
- 
+
 | 函数 | 说明 |
 | :--: | :--: |
 |getRedstoneMode|function():string; 返回当前的红石模式|
