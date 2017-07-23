@@ -5,20 +5,18 @@ tags: [wiki]
 description: >
   与君共勉 _(:з」∠)_
 ---
-最后更新 2017-07-22
+最后更新 2017-07-23
+
 - [x] ActuallyAdditions  
-- [ ] actuallycomputers
+- [x] actuallycomputers
 - [x] AppleCore
-- [ ] AppleShields
+- [x] AppleShields
 - [x] AppleSkin
-- [ ] autopackager
-- [ ] baconators
-- [ ] base
+- [x] autopackager
+- [x] baconators
 - [x] BetterBuildersWands
-- [ ] BetterFps
 - [ ] BetterThanBunnies
 - [ ] BiomeTweaker
-- [ ] BlockDispenser
 - [x] BloodMagic
 - [ ] Botania
 - [ ] Ceramics
