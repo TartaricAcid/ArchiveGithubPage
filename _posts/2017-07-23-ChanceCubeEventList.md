@@ -43,7 +43,7 @@ description: >
 | Spawn_Dr_Trayaurus | Spawn_Glenn | Spawn_Jerry |
 | Spawn_Pickles | SpongeBob_SquarePants | Squid_Horde |
 | Surrounded | Surrounded_Creeper | TNT_Bats |
-| TNT_Cat | TNT_Diamond | Table_Flip | 
+| TNT_Cat | TNT_Diamond | Table_Flip |
 | Take_This | Thrown_In_Air | Tnt_Structure |
 | Torches_To_Creepers | TrollHole | TrollTNT |
 | Wait_For_It | Want_To_Build_A_Snowman | Watch_World_Burn |
@@ -64,7 +64,21 @@ Extrautils2 相关事件
 | luid_Sphere | Mixed_Fluid_Sphere | Ore_Pillars | Ore_Sphere |
 | Raining_Potions | TNT_Throw | Throwables | Village |
 
-<!-- UY BEGIN -->
-<div id="uyan_frame"></div>
-<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2139823"></script>
-<!-- UY END -->
+<!-- 来必力City版安装代码 -->
+<div id="lv-container" data-id="city" data-uid="MTAyMC8yOTcxNS82Mjgz">
+<script type="text/javascript">
+   (function(d, s) {
+       var j, e = d.getElementsByTagName(s)[0];
+
+       if (typeof LivereTower === 'function') { return; }
+
+       j = d.createElement(s);
+       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+       j.async = true;
+
+       e.parentNode.insertBefore(j, e);
+   })(document, 'script');
+</script>
+<noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
+</div>
+<!-- City版安装代码已完成 -->
