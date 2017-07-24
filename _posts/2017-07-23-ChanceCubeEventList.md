@@ -63,3 +63,8 @@ Extrautils2 相关事件
 | :--: | :--: | :--: | :--: |
 | luid_Sphere | Mixed_Fluid_Sphere | Ore_Pillars | Ore_Sphere |
 | Raining_Potions | TNT_Throw | Throwables | Village |
+
+<!-- UY BEGIN -->
+<div id="uyan_frame"></div>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2139823"></script>
+<!-- UY END -->
