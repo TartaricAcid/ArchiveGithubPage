@@ -5,7 +5,7 @@ tags: [wiki]
 description: >
   与君共勉 _(:з」∠)_
 ---
-最后更新 2017-07-23
+最后更新 2017-07-25
 
 - [x] ActuallyAdditions  
 - [x] actuallycomputers
@@ -15,15 +15,15 @@ description: >
 - [x] autopackager
 - [x] baconators
 - [x] BetterBuildersWands
-- [ ] BetterThanBunnies
+- [x] BetterThanBunnies
 - [ ] BiomeTweaker
 - [x] BloodMagic
 - [ ] Botania
-- [ ] Ceramics
-- [ ] ChanceCubes
+- [x] Ceramics
+- [x] ChanceCubes
 - [x] Charset
 - [ ] ChestTransporter
-- [ ] ChickenChunks
+- [x] ChickenChunks
 - [ ] chickens
 - [ ] Chisel
 - [x] chiselsandbits （需要更新）
