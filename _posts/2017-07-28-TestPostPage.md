@@ -16,7 +16,7 @@ description: >
 <img src="http://ghchart.rshah.org/2016rshah" alt="2016rshah's Github chart" />
 ```
 示例中的`http://ghchart.rshah.org/2016rshah`最后的`2016rshah`可以要换成自己的GitHub的账户名称，注意大小写。比如我的就应该写成`http://ghchart.rshah.org/TartaricAcid`。   
-其次是`2016rshah's Github chart`这一段，可以随便填写，填写好后会显示成记录图下方的文字。比如我就写成`Baka943的刷单记录`。
+其次是`2016rshah's Github chart`这一段，可以随便填写，当图片无法显示时，就会用字来替代这段图片。比如我就写成`Baka943的刷单记录`。
 
 最后给大家看下效果
 

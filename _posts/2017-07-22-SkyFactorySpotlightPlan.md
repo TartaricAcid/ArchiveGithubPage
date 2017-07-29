@@ -22,16 +22,13 @@ description: >
 - [x] Ceramics
 - [x] ChanceCubes
 - [x] Charset
-- [ ] ChestTransporter
+- [x] ChestTransporter
 - [x] ChickenChunks
-- [ ] chickens
+- [x] chickens
 - [ ] Chisel
 - [x] chiselsandbits （需要更新）
 - [ ] ClientTweaks
-- [ ] Clipboard
-- [ ] Clumps
 - [ ] ColossalChests
-- [ ] CommonCapabilities
 - [ ] Controlling
 - [x] CookingForBlockheads
 - [ ] CraftTweaker
@@ -43,8 +40,6 @@ description: >
 - [ ] Draconic
 - [ ] DragonMounts
 - [ ] DrawersBits
-- [ ] ElevatorMod
-- [ ] EnderCore
 - [x] EnderIO （找太玄）
 - [ ] EnderStorage
 - [ ] EngineersWorkshop
@@ -60,7 +55,6 @@ description: >
 - [ ] FenceOverhaul
 - [ ] flatcoloredblocks
 - [ ] FluxNetworks
-- [ ] Forgelin
 - [x] FTBUtilities（需要更新）
 - [ ] FullscreenWindowed
 - [ ] Funnels
@@ -136,7 +130,6 @@ description: >
 - [ ] roots
 - [ ] SBM
 - [x] scanner
-- [ ] ShadowMC
 - [ ] shearmadness
 - [ ] shetiphiancore
 - [ ] SimpleAchievements
