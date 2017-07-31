@@ -5,7 +5,7 @@ tags: [wiki]
 description: >
   与君共勉 _(:з」∠)_
 ---
-最后更新 2017-07-25
+最后更新 2017-07-31
 
 - [x] ActuallyAdditions  
 - [x] actuallycomputers
@@ -25,11 +25,11 @@ description: >
 - [x] ChestTransporter
 - [x] ChickenChunks
 - [x] chickens
-- [ ] Chisel
+- [x] Chisel
 - [x] chiselsandbits （需要更新）
-- [ ] ClientTweaks
-- [ ] ColossalChests
-- [ ] Controlling
+- [x] ClientTweaks
+- [x] ColossalChests
+- [x] Controlling
 - [x] CookingForBlockheads
 - [ ] CraftTweaker
 - [ ] CustomMainMenu
@@ -44,7 +44,6 @@ description: >
 - [ ] EnderStorage
 - [ ] EngineersWorkshop
 - [x] environmentaltech
-- [ ] etlunar
 - [ ] ExCompressum
 - [ ] exnihiloadscensio
 - [ ] ExtraBitManipulation
