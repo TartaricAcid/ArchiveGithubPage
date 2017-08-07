@@ -31,7 +31,7 @@ description: >
 - [x] ColossalChests
 - [x] Controlling
 - [x] CookingForBlockheads
-- [ ] CraftTweaker
+- [x] CraftTweaker
 - [ ] CustomMainMenu
 - [ ] DarkUtilities
 - [x] Decocraft
