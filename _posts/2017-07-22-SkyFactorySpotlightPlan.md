@@ -5,7 +5,8 @@ tags: [wiki]
 description: >
   与君共勉 _(:з」∠)_
 ---
-最后更新 2017-07-31
+最后更新 2017-08-15
+完成进度：45/118
 
 - [x] ActuallyAdditions  
 - [x] actuallycomputers
@@ -32,11 +33,9 @@ description: >
 - [x] Controlling
 - [x] CookingForBlockheads
 - [x] CraftTweaker
-- [ ] CustomMainMenu
-- [ ] DarkUtilities
+- [x] CustomMainMenu
+- [x] DarkUtilities
 - [x] Decocraft
-- [ ] DefaultOptions
-- [ ] dimensionalcake
 - [ ] Draconic
 - [ ] DragonMounts
 - [ ] DrawersBits
@@ -52,24 +51,19 @@ description: >
 - [x] fairylights
 - [ ] FarmingForBlockheads
 - [ ] FenceOverhaul
-- [ ] flatcoloredblocks
 - [ ] FluxNetworks
 - [x] FTBUtilities（需要更新）
 - [ ] FullscreenWindowed
-- [ ] Funnels
 - [ ] GardenOfGlass
 - [ ] generators
-- [ ] GooglyEyes
 - [ ] GraveStone Mod
 - [ ] Grue
-- [ ] Guide
-- [ ] Gyth
-- [ ] HammerCore
 - [ ] hatchery
 - [ ] Headcrumbs
+    - [ ] Twitchcrumbs
+    - [ ] witherCrumbs
 - [ ] hopperducts
 - [x] Hwyla
-- [ ] hydrogel
 - [ ] ImmersiveEngineering
 - [ ] InGameInfoXML
 - [ ] InitialInventory
@@ -78,40 +72,27 @@ description: >
 - [ ] inventorysorter
 - [ ] InventoryTweaks
 - [x] IronBackpacks
-- [ ] ironchest
 - [ ] ItsBecauseUHasNoGoodSpawn
-- [ ] itsrainingfood
+    - [ ] YUNoMakeGoodMap
 - [x] jei
 - [x] journeymap
 - [ ] JustEnoughCharacters
-- [ ] KleeSlabs
-- [ ] literalascension
-- [ ] llibrary
-- [ ] LongFallBoots
+- [ ] literal ascension
 - [ ] LootBags
-- [ ] Mercurius
 - [ ] MineMenu
-- [ ] minicoal
 - [ ] missing_pieces
 - [ ] MoarSigns
 - [ ] MobGrindingUtils
-- [ ] ModTweaker2
 - [ ] MoreChickens
-- [ ] MoreShearables
-- [ ] moreshears
 - [ ] Morpheus
 - [ ] MouseTweaks
-- [ ] mpbasic
-- [ ] mputils
 - [ ] mysticalagriculture
 - [ ] natura
-- [ ] Neat
 - [ ] nice
 - [x] NotEnoughItems
 - [ ] notenoughwands
 - [x] OpenComputers （找太玄）
 - [ ] OreExcavation
-- [ ] PackingTape
 - [x] Pam's HarvestCraft
 - [ ] platforms
 - [x] Psi
@@ -119,27 +100,21 @@ description: >
 - [ ] RandomThings
 - [ ] rangedpumps
 - [ ] RebornStorage
-- [ ] redstonepaste
+- [ ] redstone paste
 - [x] refinedstorage
 - [ ] Reliquia
-- [ ] ResourceLoader
 - [x] rftools
 - [ ] rftoolsctrl
 - [x] rftoolsdim
 - [ ] roots
-- [ ] SBM
-- [x] scanner
+- [ ] scanner
 - [ ] shearmadness
-- [ ] shetiphiancore
 - [ ] SimpleAchievements
 - [ ] simplebarrels
 - [ ] simpleCorn
-- [ ] simplegenerators
 - [ ] simplelabels
 - [ ] SimplyJetpacks2
-- [ ] Snad
 - [ ] SolarFluxReborn
-- [ ] SonarCore
 - [ ] StevesCarts
 - [ ] StorageDrawers
 - [ ] SuperCircuitMaker
@@ -149,14 +124,6 @@ description: >
 - [ ] tinyprogressions
 - [ ] torchmaster
 - [ ] Translocators
-- [ ] TS2K16
-- [ ] Twitchcrumbs
-- [ ] UniDict
-- [ ] valkyrielib
-- [ ] voidcup
 - [ ] Waddles
-- [ ] WanionLib
 - [x] Wawla
-- [ ] witherCrumbs
-- [ ] xprings
-- [ ] YUNoMakeGoodMap
+- [ ] xp rings
