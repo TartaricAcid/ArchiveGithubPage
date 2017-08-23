@@ -1,5 +1,5 @@
 # Dependencies
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
 
