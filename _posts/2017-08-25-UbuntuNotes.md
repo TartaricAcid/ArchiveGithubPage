@@ -132,26 +132,3 @@ git？额，git还要啥客户端，终端就是你的家。不过我不是用At
 至于其他游戏么……与其折腾在linux上，你还是切Windows系统吧，我感觉这东西瞎折腾没有意义。
 
 啊，差点忘了说了，国际知名理财软件Sbteam现已登录Ubuntu，欲购从速啊。
-
-<!-- 来必力City版安装代码 -->
-<div id="lv-container" data-id="city" data-uid="MTAyMC8yOTcxNS82Mjgz">
-<script type="text/javascript">
-if (window.location.href != "https://tartaricacid.github.io/") {
-   (function(d, s) {
-    if (false){
-       var j, e = d.getElementsByTagName(s)[0];
-
-       if (typeof LivereTower === 'function') { return; }
-
-       j = d.createElement(s);
-       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-       j.async = true;
-
-       e.parentNode.insertBefore(j, e);
-   } (document, 'script');
-  }
- }
-</script>
-<noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
-</div>
-<!-- City版安装代码已完成 -->

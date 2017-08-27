@@ -30,7 +30,7 @@ description: >
 
 很遗憾这些话我开始听着很欣慰，时间久了，越来越觉得觉得力不从心。倒是有一句话我记得清清楚楚，那是我舍友在看了一个算是心灵鸡汤般励志视频视频后的一句话——“这东西让那些优秀的人学也花不了多久时间啊，只是人家没太多精力去搞这个而已。如果真搞了，他这算个啥”。
 
-无疑，舍友是极优秀的人，我恐怕这辈子都无法匹敌。热爱运动，经常健身，成绩优异，还爱和人说话。平时风趣幽默，上课学习该随心随性，该用工毫不含糊。每天都活的精彩而又快乐。
+无疑，舍友是极优秀的人，我恐怕这辈子都无法匹敌。热爱运动，经常健身，成绩优异，还爱和人说话。平时风趣幽默，上课学习该随心随性，该用功毫不含糊。每天都活的精彩而又快乐。
 
 ### ¶ 第五节
 那你为啥不学学他……
@@ -46,22 +46,3 @@ description: >
 我是怎么了……
 
 ### ¶ 2017年7月27日于家中
-
-<!-- 来必力City版安装代码 -->
-<div id="lv-container" data-id="city" data-uid="MTAyMC8yOTcxNS82Mjgz">
-<script type="text/javascript">
-   (function(d, s) {
-       var j, e = d.getElementsByTagName(s)[0];
-
-       if (typeof LivereTower === 'function') { return; }
-
-       j = d.createElement(s);
-       j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
-       j.async = true;
-
-       e.parentNode.insertBefore(j, e);
-   })(document, 'script');
-</script>
-<noscript>为正常使用来必力评论功能请激活JavaScript</noscript>
-</div>
-<!-- City版安装代码已完成 -->
