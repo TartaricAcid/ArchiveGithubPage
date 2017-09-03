@@ -6,7 +6,7 @@ description: >
   与君共勉 _(:з」∠)_
 ---
 最后更新 2017-08-15
-完成进度：45/118
+完成进度：50/114
 
 - [x] ActuallyAdditions  
 - [x] actuallycomputers
@@ -37,23 +37,20 @@ description: >
 - [x] DarkUtilities
 - [x] Decocraft
 - [ ] Draconic
-- [ ] DragonMounts
-- [ ] DrawersBits
+- [x] DragonMounts
 - [x] EnderIO （找太玄）
-- [ ] EnderStorage
-- [ ] EngineersWorkshop
+- [x] EnderStorage
+- [x] EngineersWorkshop
 - [x] environmentaltech
-- [ ] ExCompressum
-- [ ] exnihiloadscensio
-- [ ] ExtraBitManipulation
+- [x] ExCompressum
+- [x] exnihiloadscensio
+- [x] ExtraBitManipulation
 - [x] extrautils2 （需要更新）
 - [x] ExtremeReactors
 - [x] fairylights
 - [ ] FarmingForBlockheads
-- [ ] FenceOverhaul
 - [ ] FluxNetworks
 - [x] FTBUtilities（需要更新）
-- [ ] FullscreenWindowed
 - [ ] GardenOfGlass
 - [ ] generators
 - [ ] GraveStone Mod
@@ -124,6 +121,4 @@ description: >
 - [ ] tinyprogressions
 - [ ] torchmaster
 - [ ] Translocators
-- [ ] Waddles
 - [x] Wawla
-- [ ] xp rings
