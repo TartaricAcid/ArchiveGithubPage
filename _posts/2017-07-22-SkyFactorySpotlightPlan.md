@@ -5,8 +5,8 @@ tags: [wiki]
 description: >
   与君共勉 _(:з」∠)_
 ---
-最后更新 2017-08-15
-完成进度：50/114
+最后更新 2017-09-13
+完成进度：53/114
 
 - [x] ActuallyAdditions  
 - [x] actuallycomputers
@@ -19,7 +19,7 @@ description: >
 - [x] BetterThanBunnies
 - [ ] BiomeTweaker
 - [x] BloodMagic
-- [ ] Botania
+- [x] Botania
 - [x] Ceramics
 - [x] ChanceCubes
 - [x] Charset
@@ -48,8 +48,8 @@ description: >
 - [x] extrautils2 （需要更新）
 - [x] ExtremeReactors
 - [x] fairylights
-- [ ] FarmingForBlockheads
-- [ ] FluxNetworks
+- [x] FarmingForBlockheads
+- [x] FluxNetworks
 - [x] FTBUtilities（需要更新）
 - [ ] GardenOfGlass
 - [ ] generators
