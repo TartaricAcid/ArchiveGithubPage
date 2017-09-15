@@ -5,8 +5,8 @@ tags: [wiki]
 description: >
   与君共勉 _(:з」∠)_
 ---
-最后更新 2017-09-13
-完成进度：53/114
+最后更新 2017-09-15
+完成进度：56/102
 
 - [x] ActuallyAdditions  
 - [x] actuallycomputers
@@ -51,21 +51,18 @@ description: >
 - [x] FarmingForBlockheads
 - [x] FluxNetworks
 - [x] FTBUtilities（需要更新）
-- [ ] GardenOfGlass
-- [ ] generators
-- [ ] GraveStone Mod
-- [ ] Grue
+- [x] GardenOfGlass
+- [x] generators
 - [ ] hatchery
 - [ ] Headcrumbs
     - [ ] Twitchcrumbs
     - [ ] witherCrumbs
-- [ ] hopperducts
 - [x] Hwyla
 - [ ] ImmersiveEngineering
 - [ ] InGameInfoXML
 - [ ] InitialInventory
 - [ ] IntegratedDynamics
-- [ ] IntegratedTunnels
+    - [ ] IntegratedTunnels
 - [ ] inventorysorter
 - [ ] InventoryTweaks
 - [x] IronBackpacks
@@ -74,18 +71,14 @@ description: >
 - [x] jei
 - [x] journeymap
 - [ ] JustEnoughCharacters
-- [ ] literal ascension
-- [ ] LootBags
 - [ ] MineMenu
 - [ ] missing_pieces
 - [ ] MoarSigns
 - [ ] MobGrindingUtils
-- [ ] MoreChickens
 - [ ] Morpheus
 - [ ] MouseTweaks
 - [ ] mysticalagriculture
 - [ ] natura
-- [ ] nice
 - [x] NotEnoughItems
 - [ ] notenoughwands
 - [x] OpenComputers （找太玄）
@@ -105,10 +98,6 @@ description: >
 - [x] rftoolsdim
 - [ ] roots
 - [ ] scanner
-- [ ] shearmadness
-- [ ] SimpleAchievements
-- [ ] simplebarrels
-- [ ] simpleCorn
 - [ ] simplelabels
 - [ ] SimplyJetpacks2
 - [ ] SolarFluxReborn
@@ -119,6 +108,5 @@ description: >
 - [ ] The Beneath
 - [ ] TinkerToolLeveling
 - [ ] tinyprogressions
-- [ ] torchmaster
 - [ ] Translocators
 - [x] Wawla
