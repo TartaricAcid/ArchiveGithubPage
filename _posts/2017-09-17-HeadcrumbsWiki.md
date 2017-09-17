@@ -1,7 +1,7 @@
 ---
-layout: wiki
+layout: post
 title: 对Headcrumbs模组的补充说明
-tags: [essay]
+tags: [wiki]
 description: >
   Headcrumbs模组留下了很多彩蛋，这里我一一说明一下，以飨读者
 ---
