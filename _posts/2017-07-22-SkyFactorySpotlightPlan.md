@@ -5,8 +5,8 @@ tags: [wiki]
 description: >
   与君共勉 _(:з」∠)_
 ---
-最后更新 2017-09-18
-完成进度：60/95
+最后更新 2017-09-21
+完成进度：73/92
 
 - [x] ActuallyAdditions  
 - [x] actuallycomputers
@@ -59,33 +59,32 @@ description: >
     - [x] witherCrumbs
 - [x] Hwyla
 - [ ] ImmersiveEngineering
-- [ ] InGameInfoXML
+- [x] InGameInfoXML
 - [ ] IntegratedDynamics
     - [ ] IntegratedTunnels
 - [x] IronBackpacks
 - [x] jei
 - [x] journeymap
-- [ ] JustEnoughCharacters
-    - [ ] MouseTweaks
-    - [ ] InventoryTweaks
-    - [ ] MineMenu
-- [ ] missing_pieces
-- [ ] MoarSigns
-- [ ] MobGrindingUtils
+- [x] JustEnoughCharacters
+    - [x] MouseTweaks
+    - [x] InventoryTweaks
+    - [x] MineMenu
+- [x] missing_pieces
+- [x] MoarSigns
+- [x] MobGrindingUtils
 - [ ] Morpheus
 - [ ] mysticalagriculture
 - [ ] natura
 - [x] NotEnoughItems
 - [ ] notenoughwands
 - [x] OpenComputers（找太玄）
-- [ ] OreExcavation
+- [x] OreExcavation（吕不才做过了）
 - [x] Pam's HarvestCraft
-- [ ] platforms
+- [x] platforms
 - [x] Psi
-- [ ] QuantumStorage
 - [ ] RandomThings
-- [ ] RebornStorage
-- [ ] redstone paste
+- [x] RebornStorage
+- [x] redstone paste
 - [x] refinedstorage
 - [ ] Reliquia
 - [x] rftools
@@ -93,13 +92,11 @@ description: >
 - [x] rftoolsdim
 - [ ] roots
 - [ ] scanner
-- [ ] simplelabels
 - [ ] SimplyJetpacks2
-- [ ] SolarFluxReborn
+- [x] SolarFluxReborn
 - [ ] StevesCarts
 - [ ] StorageDrawers
 - [ ] SuperCircuitMaker
 - [x] TConstruct
 - [ ] tinyprogressions
-- [ ] Translocators
 - [x] Wawla
