@@ -6,7 +6,7 @@ description: >
   与君共勉 _(:з」∠)_
 ---
 最后更新 2017-09-21
-完成进度：73/92
+完成进度：77/92
 
 - [x] ActuallyAdditions  
 - [x] actuallycomputers
@@ -58,7 +58,7 @@ description: >
     - [x] Twitchcrumbs
     - [x] witherCrumbs
 - [x] Hwyla
-- [ ] ImmersiveEngineering
+- [x] ImmersiveEngineering（元素做过了）
 - [x] InGameInfoXML
 - [ ] IntegratedDynamics
     - [ ] IntegratedTunnels
@@ -90,13 +90,13 @@ description: >
 - [x] rftools
 - [ ] rftoolsctrl
 - [x] rftoolsdim
-- [ ] roots
+- [x] roots（一天世界君做过了）
 - [ ] scanner
 - [ ] SimplyJetpacks2
 - [x] SolarFluxReborn
 - [ ] StevesCarts
-- [ ] StorageDrawers
-- [ ] SuperCircuitMaker
+- [x] StorageDrawers（呆萌小枫做过了）
+- [x] SuperCircuitMaker（一天世界君做过了）
 - [x] TConstruct
 - [ ] tinyprogressions
 - [x] Wawla
