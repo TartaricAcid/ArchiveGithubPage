@@ -24,13 +24,13 @@ description: >
 | 14 | ~~Psi~~ | ~~还有附属，嗯，太玄你能接坑么~~ |
 | 15 | Reliquary | 嗯……，中规中矩的模组 |
 | 16 | ~~Roots~~ | ~~这作者不增加自动化的部分，我拒绝这个模组~~ |
-| 17 | Random Thing | 作者自己的wiki都不全，到时候只能艹源码了 |
+| 17 | ~~Random Thing~~ | 作者自己的wiki都不全，到时候只能艹源码了 |
 | 18 | ~~MalisisDoors~~ | ~~我喜欢这门~~ |
 | 19 | ~~FTBUtilities~~ | ~~差点忘了这么重要的一个模组，到时候得请吕不才帮忙~~ |
 | 20 | ~~EnderIO~~ | ~~太玄好样的~~ |
 | 21 | SuperCircultMaker | 新兴的潜力无限模组 |
 | 22 | ~~Better Builder's Wands~~ | ~~小模组，更专业~~ |
-| 23 | Heat & Climate | deaftedcrow力作 |
+| 23 | ~~Heat & Climate~~ | deaftedcrow力作 |
 | 24 | ~~fairylights~~ | ~~非常棒的装饰彩灯~~ |
 
 

@@ -20,14 +20,14 @@ description: >
 | 9 | Reliquary | 补一下寒假的坑 |
 | 10 | DarkUtilities | 这个和上面类型差不多 |
 | 11 | ~~Aroma1997s Dimensional World~~ | ~~这个小模组几分钟就完事吧~~ |
-| 12 | RFTools Dimension | 有趣 |
+| 12 | ~~RFTools Dimension~~ | 有趣 |
 | 13 | RFTools Control | 搞不懂 |
 | 14 | XNet | 不得不说，优化做的确实好 |
 | 15 | ~~SupercraftingFrame~~ | ~~小模组，但是好像还是有人不会用~~ |
 | 16 | Gendustry | Sanae你快看，我打算做这个教程了诶 |
-| 17 | ExtremeReactors | 还有个[设计网站](http://br.sidoh.org/#reactor-prompt)简直赞 |
+| 17 | ~~ExtremeReactors~~ | 还有个[设计网站](http://br.sidoh.org/#reactor-prompt)简直赞 |
 | 18 | RFTools | 别害怕，只是把末影能发电机部分重置一下 |
-| 19 | Chisel | 阿长：“凿子大法好！” |
+| 19 | ~~Chisel~~ | 阿长：“凿子大法好！” |
 | 20 | Draconic Evolution | 感受到了什么？好像是OP？！|
 | 21 | Moar Tinkers | 做的挺有意思的 |
 | 22 | Immersive Engineering | 元素，我来抢你饭碗了 |

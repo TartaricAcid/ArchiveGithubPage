@@ -5,8 +5,8 @@ tags: [wiki]
 description: >
   与君共勉 _(:з」∠)_
 ---
-最后更新 2017-09-21
-完成进度：77/92
+最后更新 2017-10-03
+完成进度：81/88
 
 - [x] ActuallyAdditions  
 - [x] actuallycomputers
@@ -72,31 +72,27 @@ description: >
 - [x] missing_pieces
 - [x] MoarSigns
 - [x] MobGrindingUtils
-- [ ] Morpheus
 - [ ] mysticalagriculture
-- [ ] natura
 - [x] NotEnoughItems
-- [ ] notenoughwands
+- [x] notenoughwands
 - [x] OpenComputers（找太玄）
 - [x] OreExcavation（吕不才做过了）
 - [x] Pam's HarvestCraft
 - [x] platforms
 - [x] Psi
-- [ ] RandomThings
+- [x] RandomThings
 - [x] RebornStorage
 - [x] redstone paste
 - [x] refinedstorage
-- [ ] Reliquia
+- [x] Reliquia
 - [x] rftools
 - [ ] rftoolsctrl
 - [x] rftoolsdim
 - [x] roots（一天世界君做过了）
-- [ ] scanner
-- [ ] SimplyJetpacks2
+- [x] SimplyJetpacks2
 - [x] SolarFluxReborn
 - [ ] StevesCarts
 - [x] StorageDrawers（呆萌小枫做过了）
 - [x] SuperCircuitMaker（一天世界君做过了）
 - [x] TConstruct
-- [ ] tinyprogressions
 - [x] Wawla
