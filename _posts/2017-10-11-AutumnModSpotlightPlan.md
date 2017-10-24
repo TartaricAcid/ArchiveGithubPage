@@ -11,7 +11,7 @@ description: >
 | 1 | Super Circult Maker | 继续SF3没完成的坑 |
 | 2 | FTB Utilities | 重置教程 |
 | 3 | RFTools Control | 搞不懂，恐怕做不了 |
-| 4 | XNet | 不得不说，优化做的确实好 |
+| 4 | ~~XNet~~ | ~~不得不说，优化做的确实好~~ |
 | 5 | Gendustry | Sanae你快看，我又打算做这个教程了诶 |
 | 6 | Plus Tinkers | 做的挺有趣的 |
 | 7 | Moar Tinkers | 做的挺有意思的 |
@@ -21,14 +21,14 @@ description: >
 | 11 | Advance Rocketry | 好模组！ |
 | 12 | Totemic | 诹访大舞 |
 | 13 | ModularPowersuits | 模块化动力装甲 |
-| 14 | PracticalLogistics2 | 接坑啦，开心吧 |
+| 14 | ~~PracticalLogistics2~~ | ~~接坑啦，开心吧~~ |
 | 15 | IntegratedDynamics | 还有个附属，搞不懂 |
 | 16 | StevesCarts | 历史悠久的模组 |
 | 17 | Draconic Evolution | 感受到了什么？好像是OP？！ |
 | 18 | Slash Blade | 哈哈哈哈啊哈哈哈哈哈 |
 | 19 | Abyssal Craft | 感受到了什么？好像是OP？听说这个RPG做的挺精致 |
 | 20 | Astral Socrcery | 重置mod教程，因为改动太大了 |
-| 21 | Ars Magic 2 | 经典的魔法（卡机）艺术 |
+| 21 | ~~Ars Magic 2~~ | ~~不做了，据说mod本身并不行~~ |
 | 22 | Cyberware | 今天我们都是终结者！！ |
 | 23 | Cyclic | 我讨厌讲解这种小模组，但是我喜欢用 |
 | 24 | EssencialCraft 4 Unoffical | 有点肝 |
