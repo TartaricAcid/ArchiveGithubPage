@@ -19,13 +19,13 @@ description: >
 | 9 | Immersive Craft | 那个是谁说这是一个模组的？ |
 | 10 | Just Enough Calculator | Towdium，我承认接锅 |
 | 11 | Advance Rocketry | 好模组！ |
-| 12 | Totemic | 诹访大舞 |
-| 13 | ModularPowersuits | 模块化动力装甲 |
+| 12 | ~~Totemic~~ | ~~诹访大舞~~ |
+| 13 | ~~ModularPowersuits~~ | ~~模块化动力装甲~~ |
 | 14 | ~~PracticalLogistics2~~ | ~~接坑啦，开心吧~~ |
 | 15 | IntegratedDynamics | 还有个附属，搞不懂 |
 | 16 | StevesCarts | 历史悠久的模组 |
 | 17 | Draconic Evolution | 感受到了什么？好像是OP？！ |
-| 18 | Slash Blade | 哈哈哈哈啊哈哈哈哈哈 |
+| 18 | ~~Slash Blade~~ | ~~文字教程就够了~~ |
 | 19 | Abyssal Craft | 感受到了什么？好像是OP？听说这个RPG做的挺精致 |
 | 20 | Astral Socrcery | 重置mod教程，因为改动太大了 |
 | 21 | ~~Ars Magic 2~~ | ~~不做了，据说mod本身并不行~~ |
@@ -38,9 +38,9 @@ description: >
 | 28 | Industrial Craft Classic | 我的翻译好像都没有完成 |
 | 29 | Evil Craft | 邪恶工艺，是挺邪恶的 |
 | 30 | Mekanism | 通用机械，UE系的幸存者？ |
-| 31 | Modular Force Field System | 背叛了UE系，你个叛徒 |
+| 31 | ~~Modular Force Field System~~ | ~~我记错了，这玩意儿没更新1.10~~ |
 | 32 | Mine Factory Reload | MFR，王者归来 |
-| 33 | Matter Overdrive | 物质飙车，听说还没做完？ |
+| 33 | ~~Matter Overdrive~~ | ~~BUG听说挺多的~~ |
 | 34 | Calculator | 运算OP |
 | 35 | Nuclear Craft | 这是一个有想法的作者 |
 
