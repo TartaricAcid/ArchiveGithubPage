@@ -31,8 +31,8 @@ image:               /public/img/001.jpg
 color:               '#A85641'
 
 # Fonts
-font:                'consolas, 微软雅黑'
-font_accent:         'consolas, 华文细黑, 微软雅黑'
+font:                'Ubuntu Mono, consolas, 微软雅黑'
+font_accent:         'Ubuntu Mono, consolas, 华文细黑, 微软雅黑'
 load_google_fonts:   'consolas'
 
 # About yourself
